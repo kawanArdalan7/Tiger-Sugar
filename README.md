@@ -4,7 +4,7 @@
 
 > **Academic Project | Texas A&M University (Oct 2023 - Dec 2023)**
 
-> **Important Notice**
+> **Important Notice** \
 > This project is **no longer runnable** due to the archival of its database. A **full video demo** is available below showcasing all functionality in action.
 
 ---
