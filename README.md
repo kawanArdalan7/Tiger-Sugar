@@ -259,11 +259,11 @@ I served as the **Frontend Lead** on this project, with ownership over the custo
 
 Special thanks to my fellow team members:
 
-- **[Nicholas Nguyen][nicholas-nguyen-linkedin-url]** — Project Manager & Backend Developer
+- **[Nicholas Nguyen][nicholas-nguyen-linkedin-url]** — Project Manager & Backend Developer \
   Led sprint planning and contributed to backend systems.
-- **[Joshua Mueck][joshua-mueck-linkedin-url]** — Frontend Support & Testing
+- **[Joshua Mueck][joshua-mueck-linkedin-url]** — Frontend Support & Testing \
   Implemented cashier interfaces, employee authentication, and OAuth integration.
-- **[Yusa Sagli][yusa-sagli-linkedin-url]** — Backend Support & Technical Documentation
+- **[Yusa Sagli][yusa-sagli-linkedin-url]** — Backend Support & Technical Documentation \
   Assisted with backend development and authored technical support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
